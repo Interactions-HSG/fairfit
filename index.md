@@ -2,7 +2,7 @@
 ## Welcome to FairFit
 <img align="right" src="images/fairfit-logo.png" alt="FairFit Logo" height="100"/>
 
-We are FairFit, a (fictional) University of Zurich (UZH) spinoff that is offering a new wearable device called _FairFit Tracker_. FairFit's team, organizational, and technical setup are the subject of the UZH course [link-to-course](courselink).
+We are FairFit, a (fictional) spinoff that is offering a new wearable device called _FairFit Tracker_.
 
 
 
